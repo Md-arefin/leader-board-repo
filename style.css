@@ -156,3 +156,40 @@ hr{
 .course-title{
     margin: 10px 0 0 20px;
 }
+.ratings-1{
+    margin-top: 20px;
+    width: 12px;
+    height: 12px;
+}
+.ratings-2{
+    margin-top: 20px;
+    width: 12px;
+    height: 12px;
+    filter: grayscale(200);
+}
+.div{
+    color: #A2A2A2;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -17px;
+}
+.time{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 85px;
+    height: 30px;
+    border-radius: 50px;
+    padding-left: 5px;
+    background-color: var(--tertiary-color);
+    color: var(--secondary-color);
+    margin-left: 130px;
+    margin-top: -25px;
+}
+.time-time{
+    margin-left: 140px;
+}
+.time-1{
+    width: 20px;
+    height: 20px;
+}
